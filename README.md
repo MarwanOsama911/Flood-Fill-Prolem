@@ -6,6 +6,7 @@ Unity version
 Make sure the Unity version you use matches the one in the project. You can see that in Unity Hub, or by looking in the file ProjectSettings/ProjectVersion.txt.
 
 Game mechanics
+
 The game mechanics are as follows:
 
 - The game consists of m x n tiles (configurable in editor or code).
